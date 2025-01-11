@@ -112,7 +112,7 @@ export const Home = ()=> {
             <div className="section-box wow animate__animated animate__fadeIn">
               <div className="container">
                 <div className="text-start">
-                  <h2 className="section-title mb-10 wow animate__animated animate__fadeInUp">Resources</h2>
+                  <h2 className="section-title mb-10 wow animate__animated animate__fadeInUp">Resource</h2>
                   <div className="border-bottom pt-10 pb-10" />
                 </div>
                 <div className="mt-50">
